@@ -36,9 +36,9 @@ An exhaustive collection of Leetcode Hard Level Questions With Best Time and Spa
 ## Example file 🎃
 tittle should be name in question with .py
 make sure to add Time Complexity and Space Complexity
-#time complexity : O(1)
-#Space Complexity: O(1)
-#  def ans(arr):
+time complexity : O(1)
+Space Complexity: O(1)
+  def ans(arr):
    return(arr)
 
 
