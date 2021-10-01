@@ -1,16 +1,7 @@
-Leetcode Hard Problems as Per now this repository accept only python Leetcode Hard Problem only feel free to add question to this repository. 
-Happy Learning :)
 
-[![Build Status](https://travis-ci.org/Showndarya/Hacktoberfest.svg?branch=master)](https://travis-ci.org/Showndarya/Hacktoberfest)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
-![GitHub](https://img.shields.io/github/license/Showndarya/Hacktoberfest.svg)
-![GitHub forks](https://img.shields.io/github/forks/Showndarya/Hacktoberfest.svg)
-![GitHub issues](https://img.shields.io/github/issues/Showndarya/Hacktoberfest.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Showndarya/Hacktoberfest.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/Showndarya/Hacktoberfest.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/Showndarya/Hacktoberfest.svg)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Showndarya/Hacktoberfest.svg)](http://isitmaintained.com/project/Showndarya/Hacktoberfest "Average time to resolve an issue")
-
+![GitHub](https://img.shields.io/github/license/ajeetjaiswal02/Hacktoberfest.svg)
+![GitHub forks](https://img.shields.io/github/forks/ajeetjaiswal02/Leetcode-Hard-Problems)
 # Leetcode Collections of Hard Problems:
 
 An exhaustive collection of Leetcode Hard Level Questions With Best Time and Space Complexity.
@@ -18,7 +9,7 @@ An exhaustive collection of Leetcode Hard Level Questions With Best Time and Spa
 
 ## How to contribute 
 
-> [Refer the template provided below to add your word](https://github.com/ajeetjaiswal02/Leetcode-Hard-Problems/blob/main/Readme.md)
+> [Refer the template provided below to add your word](https://github.com/ajeetjaiswal02/Leetcode-Hard-Problems)
 
 
 ## Create your first pull request :city_sunrise
@@ -27,7 +18,7 @@ An exhaustive collection of Leetcode Hard Level Questions With Best Time and Spa
 
 >  Clone the forked repository from your account
 
-> Add your JSON file to the respective folder.
+> Add your Python Question File 
 
 > Commit your changes with an appropriate message.
 
@@ -44,7 +35,4 @@ Space Complexity: O(1)
 
 
 
-## Hall of Fame :fire:
-
-Check out the [Hall of Fame](https://showndarya.github.io/Hacktoberfest/Contributors_Page_Source/) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
-
+## Happy Learning :bulb
