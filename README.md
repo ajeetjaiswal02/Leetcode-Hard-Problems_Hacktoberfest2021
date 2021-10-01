@@ -1,7 +1,8 @@
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
-![GitHub](https://img.shields.io/github/license/ajeetjaiswal02/Hacktoberfest.svg)
+![License](https://img.shields.io/github/license/ajeetjaiswal02/Leetcode-Hard-Problems)
 ![GitHub forks](https://img.shields.io/github/forks/ajeetjaiswal02/Leetcode-Hard-Problems)
+
 # Leetcode Collections of Hard Problems:
 
 An exhaustive collection of Leetcode Hard Level Questions With Best Time and Space Complexity.
