@@ -14,6 +14,8 @@ The largest rectangle is shown in the red area, which has an area = 10 units.
 # Time Complexity : O(n)
 # Space Complexity: O(n)
 
+from typing import List
+
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:    
         heights.append(0)
