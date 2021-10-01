@@ -39,7 +39,7 @@ make sure to add Time Complexity and Space Complexity
 #time complexity : O(1)
 #Space Complexity: O(1)
 #  def ans(arr):
-       return(arr)
+   return(arr)
 
 
 
