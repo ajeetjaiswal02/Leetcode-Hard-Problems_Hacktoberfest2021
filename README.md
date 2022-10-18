@@ -2,7 +2,7 @@
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 ![License](https://img.shields.io/github/license/ajeetjaiswal02/Leetcode-Hard-Problems)
 ![GitHub forks](https://img.shields.io/github/forks/ajeetjaiswal02/Leetcode-Hard-Problems)
-![image](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)
+![image](https://user-images.githubusercontent.com/60817034/196428948-c0f675e2-cea2-478b-9c10-3a06c3c4af1b.png))
 
 <h1 align="center"> Hacktoberfest 2021 </h1>
 
