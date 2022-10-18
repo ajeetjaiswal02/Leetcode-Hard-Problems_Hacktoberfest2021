@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/ajeetjaiswal02/Leetcode-Hard-Problems)
 ![image](https://user-images.githubusercontent.com/60817034/196428948-c0f675e2-cea2-478b-9c10-3a06c3c4af1b.png))
 
-<h1 align="center"> Hacktoberfest 2021 </h1>
+<h1 align="center"> Hacktoberfest 2022 </h1>
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
